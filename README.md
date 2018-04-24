@@ -8,3 +8,5 @@ The script will wait for systems to connect and will automatically:
 3. lateral move to DNS server by leveraging invoke_wmi
 4. use Powershell to discover DNS Zones and records
 5. look for AWS DNS entries for lateral movement and data exfiltration
+
+More information and attack scenarios will follow.
